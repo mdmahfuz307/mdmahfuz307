@@ -1,4 +1,4 @@
-### Hi there 👋, ### Hi there 👋, I'm Md Mahfuz Rahman Nirob
+### Hi there 👋, I'm Md Mahfuz Rahman Nirob
 #### I am currently studying in Software Engineering.
 
 Skills: HTML / C
