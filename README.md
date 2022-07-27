@@ -41,7 +41,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <br>
 
 <h2 align="center">📈 GitHub Stats 📈</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://github.com/mdmahfuz307/github-readme-stats -->
 <br>
 <div align=center>
   <a href="#" title="Trungquandev">
