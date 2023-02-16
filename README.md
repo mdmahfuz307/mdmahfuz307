@@ -21,7 +21,7 @@ hi✋ i'm Md Mahfuz Rahman Nirob student of Software Engineering Department at D
 <!--START_SECTION:waka-->
 
 ```text
-Cpp DSA   8 hrs 5 mins   █████████████████████████  99.20 %
+Cpp DSA   2 hrs 5 mins   █████████████████████████  99.20 %
 Other     3 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
