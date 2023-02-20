@@ -9,13 +9,22 @@ hi✋ i'm Md Mahfuz Rahman Nirob student of Software Engineering Department at D
 - 📚 I am currently studying in Software Engineering.
 - 💬 ask me about anything, i am happy to help; 
 
-# 🛠languages and tools🛠
+<h2 style="color: #44AEFB">🛠Problem Solveing Platform Profile Link 🛠</h2>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<div class="footer" align="center" style="margin:15px;">
+    <a href="https://codeforces.com/profile/mdmahfuz307" target="_blank">
+        <img  style="margin:0 10px 10px 0;" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/256/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="youtube" width="40px"/>
+    </a>
+    <a href="https://leetcode.com/mdmahfuz307/" target="_blank">
+        <img style="margin:0 10px 10px 0;" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/256/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="blogger" width="40px"/>
+    </a>
+    <a href="https://www.codechef.com/users/codernirob307" target="_blank">
+        <img style="margin:0 10px 10px 0;" src="https://img.icons8.com/bubbles/256/codechef.png" alt="gmail" width="40px"/>
+    </a>
+    <a href="https://www.hackerrank.com/mdmahfuz307" target="_blank">
+        <img style="margin:0 10px 10px 0;" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/256/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-green-tal-revivo.png" alt="facebook" width="40px"/>
+    </a>
+</div>
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
@@ -39,29 +48,40 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 <br>
+<h2 style="color: #44AEFB">📊 GitHub Statistics 📈</h2>
 
-<h2 align="center">📈 GitHub Stats 📈</h2>
-<!-- https://github.com/mdmahfuz307/github-readme-stats -->
-<br>
-<div align=center>
-  <a href="#" title="Trungquandev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahfuz307&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="Trungquandev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=mdmahfuz307&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
+
+<!-- Begin Stats Cards -->
+<!-- Resources:  -->
+<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
+<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
+<!-- Change the value after ?username= to your GitHub username. -->
+<div class="stats" align="center">
+
+![Md Mahfuz Nirob GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdmahfuz307&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=mdmahfuz307&count_private=true&theme=algolia&border_radius=20)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahfuz307&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
+<!--  End Stats Cards -->
+
+
 
 <br>
-<h2 align="center">👽 Where to find me 👽</h2>
+<div class="footer" align="center" style="margin:15px;">
+<h2>👽 Where to find me 👽</h2>
+  </div>
 <br>
+  </div>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/mdmahfuz307" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
-  </a>
   <a href="https://www.linkedin.com/in/mdmahfuz307" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+  </a>
+  <a href="https://facebook.com/mdmahfuz307" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
   <a href="https://instagram.com/mdmahfuz307" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
